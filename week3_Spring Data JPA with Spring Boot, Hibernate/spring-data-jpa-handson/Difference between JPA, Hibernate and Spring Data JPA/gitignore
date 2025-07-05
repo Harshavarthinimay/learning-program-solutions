@@ -1,0 +1,18 @@
+# Eclipse and Maven
+.classpath
+.project
+.settings/
+target/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.idea/
+*.iml
+*.iws
+*.ipr
